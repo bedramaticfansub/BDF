@@ -39,8 +39,8 @@ header {
 }
 
 .poster img {
-    width: 400px;
-    height: 400px;
+    width: auto;
+    height: auto;
     
 }
 
@@ -68,12 +68,14 @@ header {
 .banner-item {
     margin-right: 0px;
     margin-left: 0px;
+    align-items: center; /* Centraliza verticalmente */
+
 
 }
 
 .banner img {
-    width: auto;
-    height: auto;
+    width: 400px;
+    height: 400px;
     
 }
 
