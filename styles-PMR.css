@@ -67,16 +67,16 @@ header {
 
 .banner-item {
     margin-right: 0px;
-    margin-left: 0px;
-    align-items: center; /* Centraliza verticalmente */
+    margin-left: 100px;
 
 
 }
 
 .banner img {
-    width: 400px;
-    height: 400px;
-    
+    width: auto;
+    height: auto;
+    align-items: center; /* Centraliza verticalmente */
+
 }
 
 @media screen and (max-width: 767px) {
