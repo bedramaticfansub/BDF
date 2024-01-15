@@ -96,26 +96,6 @@ header {
     color: #fff;
 }
 
-.ELENCO {
-    text-align: center;
-    padding: 5px;
-    background-color: #ec95b0;
-    border-radius: 5px;
-}
-
-.ELENCO p {
-    font-family: 'Titillium-Black', sans-serif;
-    font-size: 20px;
-    color:  #fff;
-
-}
-
-.ELENCO a {
-    font-family: 'Titillium-Black', sans-serif;
-    font-size: 20px;
-    color:  #fff;
-
-}
 
 .EPISÓDIOS {
     text-align: center;
