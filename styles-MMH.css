@@ -103,19 +103,21 @@ header {
     padding: 5px;
     background-color: #0f436e;
     border-radius: 5px;
+    color: #fff;
+
 }
 
 .EPISÓDIOS p {
     font-family: 'Titillium-Black', sans-serif;
     font-size: 20px;
-    color:  #ffffff;
+    color: #fff;
 
 }
 
 .EPISÓDIOS a {
     font-family: 'Titillium-Black', sans-serif;
     font-size: 20px;
-    color:  #ffffff;
+    color: #fff;
 
 }
 
