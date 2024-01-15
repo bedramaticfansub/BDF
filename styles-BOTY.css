@@ -22,7 +22,7 @@ header {
 }
 
 .genre-section h2 {
-    color: #fff;
+    color: #000000;
     text-align: center;
     font-size: 40px;
 }
@@ -77,7 +77,7 @@ header {
 /* Estilo da sinopse */
 .sinopse {
     text-align: center;
-    color: #fff;
+    color: #000000;
     margin-right: 15px;
     margin-left: 15px;
 
@@ -87,13 +87,13 @@ header {
     font-family: 'Titillium-Light', sans-serif;
     src: url("Front End/Titillium/Titillium-Light.ttf") format('truetype');
     font-size: 20px;
-    color:  #fff;
+    color: #000000;
 }
 
 .sinopse p {
     font-family: 'Titillium-Light', sans-serif;
     font-size: 25px;
-    color: #fff;
+    color: #000000;
 }
 
 .EPISÓDIOS {
@@ -106,20 +106,19 @@ header {
 .EPISÓDIOS p {
     font-family: 'Titillium-Black', sans-serif;
     font-size: 20px;
-    color:  #fff;
+    color:  #000000;
 
 }
 
 .EPISÓDIOS a {
     font-family: 'Titillium-Black', sans-serif;
     font-size: 20px;
-    color:  #fff;
-
+    color:  #000000;
 }
 
 .site-footer {
   background-color: #6fb5db;
-  color: #fff;
+  color: #000000;
   padding: 20px;
   text-align: center;
   margin-bottom: 30px;
