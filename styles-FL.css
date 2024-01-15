@@ -1,5 +1,5 @@
 body {
-    background-color:  #8ae0db;
+    background-color:  #45f77b;
     margin: 20px;
     font-family: 'Staatliches', sans-serif;
 }
@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background-color: #8ae0db;
+    background-color: #45f77b;
     padding: 20px;
     text-align: center;
 }
@@ -100,7 +100,7 @@ header {
 .EPISÓDIOS {
     text-align: center;
     padding: 5px;
-    background-color: #8ae0db;
+    background-color: #45f77b;
     border-radius: 5px;
 }
 
@@ -119,7 +119,7 @@ header {
 }
 
 .site-footer {
-  background-color: #8ae0db;
+  background-color: #45f77b;
   color: #000000;
   padding: 20px;
   text-align: center;
