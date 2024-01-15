@@ -62,12 +62,12 @@ header {
 
 .banner-container {
     display: inline;
-    align-items: center; /* Centraliza verticalmente */
 }
 
 .banner-item {
-    margin-right: 0px;
+    margin-right: 250px;
     margin-left: 250px;
+    align-items: center; /* Centraliza verticalmente */
 
 
 }
@@ -75,7 +75,6 @@ header {
 .banner img {
     width: auto;
     height: auto;
-    align-items: center; /* Centraliza verticalmente */
 
 }
 
