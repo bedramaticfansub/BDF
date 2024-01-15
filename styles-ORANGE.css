@@ -93,7 +93,7 @@ header {
 .sinopse p {
     font-family: 'Titillium-Light', sans-serif;
     font-size: 25px;
-    color:  #000000;
+    color: #000000;
 
 
 .EPISÓDIOS {
@@ -101,6 +101,8 @@ header {
     padding: 5px;
     background-color: #96ac60;
     border-radius: 5px;
+    color:  #000000;
+
 }
 
 .EPISÓDIOS p {
